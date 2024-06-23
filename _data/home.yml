@@ -9,9 +9,9 @@ navbar_entries:
     url: https://github.com/NamSimon
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: AVR firmware
+    url: AVR_Study
+    desc: This is study for Firmware
 
 
 
